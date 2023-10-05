@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - schoolofdevops/vote:v3
