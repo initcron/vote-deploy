@@ -1,3 +1,0 @@
-kustomize:
-  images:
-  - schoolofdevops/vote:v23
