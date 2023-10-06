@@ -4,7 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: schoolofdevops/vote
-  newTag: v10
 - name: initcron/vote
   newTag: v5
